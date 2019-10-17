@@ -38,11 +38,16 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.ejml</groupId>
-			<artifactId>ejml-all</artifactId>
-			<version>0.37.1</version>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>3.11.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>28.1-jre</version>
+		</dependency>
 	</dependencies>
 
 	<build>

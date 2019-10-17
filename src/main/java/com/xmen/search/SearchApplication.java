@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan("com.xmen")
+@ComponentScan("com.xmen.search")
 public class SearchApplication {
 
 	public static void main(String[] args) {

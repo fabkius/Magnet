@@ -2,7 +2,7 @@
 
 - Servicio Válida es mutante o humano:
    
-    Endpoint: http://localhost:8080/mutant/
+    Endpoint: http://3.14.126.149:8080/mutant/
     Tipo: POST
     
     Request (ejemplo): 
@@ -21,7 +21,7 @@
 
 - Servicio para estadísicas de validaciones:
 
-    Endpoint: http://localhost:8080/stats
+    Endpoint: http://3.14.126.149:8080/stats
     Tipo: GET 
 
     Request:
